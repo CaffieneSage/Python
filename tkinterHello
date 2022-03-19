@@ -1,0 +1,7 @@
+import tkinter
+
+window = tkinter.Tk()
+hello = tkinter.Label(text="Hello Tkinter")
+hello.pack()
+
+window.mainloop()
